@@ -16,6 +16,14 @@ A Claude Code skill for creating stunning, animation-rich HTML presentations —
 
 <!-- 核心功能：零依赖、视觉风格发现、逐页验证、自我进化记忆、网络搜索集成等 -->
 
+
+<img width="1296" height="845" alt="截屏2026-04-10 17 36 26" src="https://github.com/user-attachments/assets/01da0c65-e4ce-4b35-aa5f-b06cf35905e7" />
+<img width="1282" height="760" alt="截屏2026-04-10 17 36 42" src="https://github.com/user-attachments/assets/5ec9d4c6-6242-4f16-9025-a3d01b2deb1f" />
+<img width="1259" height="673" alt="截屏2026-04-10 17 35 11" src="https://github.com/user-attachments/assets/5c83bea9-be53-47c6-ad63-870597827274" />
+<img width="1154" height="813" alt="截屏2026-04-10 17 39 44" src="https://github.com/user-attachments/assets/8255f399-4722-4e72-9984-0a27c2d762c8" />
+
+
+
 - **Zero Dependencies** — Single HTML files with inline CSS/JS. No npm, no build tools, no frameworks.
   <!-- 零依赖：单个HTML文件，内联CSS/JS，无需npm、构建工具或框架 -->
 - **Visual Style Discovery** — Can't articulate design preferences? No problem. Pick from generated visual previews.
